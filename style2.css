@@ -191,6 +191,7 @@ a {
     color:#6acd79;
     top:50%;
 }
+
 .flip:hover .icon{
     position: absolute;
 }
